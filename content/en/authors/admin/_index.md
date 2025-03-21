@@ -10,7 +10,7 @@ first_name: Jiashun
 last_name: Wang
 
 # Status emoji
-status: PhD Applying
+status: 
   icon: 🎓
 
 # Is this the primary user of the site?
