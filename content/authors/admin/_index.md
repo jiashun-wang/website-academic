@@ -77,7 +77,7 @@ education:
   - area: BSc Marine Science
     institution: Guangdong Ocean University
     date_start: 2017-09-01
-    date_end:  2021-6-30
+    date_end:  2021-06-30
     summary: |
       GPA: 3.6/5.0
       
