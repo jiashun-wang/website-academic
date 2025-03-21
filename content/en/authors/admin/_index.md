@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 王佳顺
+title: Jiashun Wang
 
 # Name pronunciation (optional)
-name_pronunciation: Wang Jia Shun
+#name_pronunciation: Wang Jia Shun
 
 # Full name (for SEO)
 first_name: Jiashun
 last_name: Wang
 
 # Status emoji
-status:
+status: PhD Applying
   icon: 🎓
 
 # Is this the primary user of the site?
@@ -34,20 +34,20 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:wjs@ieee.org'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://twitter.com/wang_jiashun
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/jiashun-wang
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/wangjiashun/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=wWfLsaIAAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-6442-9258
 
 interests:
   - Marine Heatwaves
