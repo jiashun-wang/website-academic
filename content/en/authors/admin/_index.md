@@ -38,8 +38,6 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/wang_jiashun
-  # - icon: brands/instagram
-  #   url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/jiashun-wang
   - icon: brands/linkedin
