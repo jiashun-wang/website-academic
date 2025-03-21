@@ -11,7 +11,7 @@ last_name: Wang
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🎓
 
 # Is this the primary user of the site?
 superuser: true
@@ -24,8 +24,11 @@ role: Graduate Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: First Institute of Oceanography, MNR
+    url: http://en.fio.org.cn/
+  - name: Harbin Engineering University
+    url: https://english.hrbeu.edu.cn/
+
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -47,9 +50,11 @@ profiles:
     url: https://orcid.org/
 
 interests:
+  - Marine Heatwaves
+  - Ocean Circulation
+  - Ocean Modelling
+  - Air-sea Interaction
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
 
 education:
   - area: PhD Artificial Intelligence
@@ -118,20 +123,20 @@ skills:
         icon: code-bracket
       - name: MATLAB
         description: ''
-        percent: 100
+        percent: 90
         icon: chart-bar
-      - name: SQL
+      - name: Fortran
         description: ''
-        percent: 40
+        percent: 70
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Bicycle
         description: ''
         percent: 60
-        icon: person-simple-walk
+        icon: bicycle
       - name: Cats
         description: ''
         percent: 100
