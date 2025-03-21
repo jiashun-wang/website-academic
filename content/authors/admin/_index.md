@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 王佳顺
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Wang Jia Shun
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Jiashun
+last_name: Wang
 
 # Status emoji
 status:
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Graduate Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -116,7 +116,7 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: MATLAB
         description: ''
         percent: 100
         icon: chart-bar
@@ -143,11 +143,9 @@ skills:
 
 languages:
   - name: English
-    percent: 100
+    percent: 70
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -183,4 +181,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jiashun Wang is a Graduate student of Physical Oceanography in the First Insitute of Oceanography (FIO). His research interests include 
