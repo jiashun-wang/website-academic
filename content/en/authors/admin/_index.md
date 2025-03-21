@@ -184,10 +184,3 @@ awards:
 Jiashun Wang is a Graduate student of Physical Oceanography in the First Insitute of Oceanography (FIO). His research interests include 
 
 
----
-type: decap_cms
-private: true
-outputs:
-  - decap_cms_config
-  - HTML
----
