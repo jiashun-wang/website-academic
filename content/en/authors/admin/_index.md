@@ -20,9 +20,9 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Graduate Student in Physical Oceanography
+role: Master Graduate in Physical Oceanography
 
-avatar_filename: avatar.jpg
+#avatar_filename: avatar.jpg
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -38,16 +38,16 @@ profiles:
   - icon: at-symbol
     url: 'mailto:wjs@ieee.org'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/wang_jiashun
-  - icon: brands/github
-    url: https://github.com/jiashun-wang
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/wangjiashun/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=wWfLsaIAAAAJ
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-6442-9258
+  - icon: brands/github
+    url: https://github.com/jiashun-wang
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/wangjiashun/
+  - icon: brands/x
+    url: https://twitter.com/wang_jiashun
 
 interests:
   - Marine Heatwaves
@@ -183,6 +183,12 @@ awards:
 
 ## About Me
 
-Jiashun Wang is a Graduate student of Physical Oceanography in the First Insitute of Oceanography (FIO). His research interests include 
+Jiashun Wang is a Graduate student of Physical Oceanography in the First Insitute of Oceanography (FIO). His research interests include xxxxxxxxxxxxxxxx
+xxxxx
+xxxxxx
+xxxxxxx
+
+xxxxxx
+xx
 
 
