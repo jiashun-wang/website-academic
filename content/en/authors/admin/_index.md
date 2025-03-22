@@ -20,7 +20,9 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Graduate Student
+role: Graduate Student in Physical Oceanography
+
+avatar_filename: avatar.jpg
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
