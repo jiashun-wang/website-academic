@@ -34,14 +34,25 @@ organizations:
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
+# https://docs.hugoblox.com/zh-cn/tutorial/resume/step-2/#academic-cv--academic-cv-pro-icons
+# https://jpswalsh.github.io/academicons/
 profiles:
   - icon: at-symbol
     url: 'mailto:wjs@ieee.org'
     label: E-mail Me
+
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=wWfLsaIAAAAJ
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-6442-9258
+  - icon: academicons/osf
+    url: https://osf.io/fbq2a 
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Jiashun-Wang-3
+  - icon: academicons/zotero
+    url: https://www.zotero.org/muskchina
+
+
   - icon: brands/github
     url: https://github.com/jiashun-wang
   - icon: brands/linkedin
