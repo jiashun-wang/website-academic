@@ -51,6 +51,7 @@ footer:
 locale:
   date_format: 'Jan 2, 2006'
   time_format: '3:04 PM'
+  address_format: en-us
 
 # Site features
 features:
@@ -58,3 +59,8 @@ features:
     enable: true
   privacy_pack:
     enable: false
+  repository:
+    url: 'https://github.com/jiashun-wang/jiashun-wang.github.io'
+    content_dir: content
+    branch: main
+  show_related: true
