@@ -74,7 +74,8 @@ education:
     date_start: 2021-09-01
     date_end: 2024-06-30
     summary: |
-      Supervised by [Prof Shujiang Li](https://www.fio.org.cn/team/shuodao-detail-5736.htm).
+      Supervised by [Prof. Shujiang Li](https://www.researchgate.net/profile/Shujiang-Li).
+      Supervised by [Prof. Xunwei Nie](https://www.researchgate.net/profile/Nie-Xunwei).
 
       GPA: 3.3/4.0
 
@@ -84,7 +85,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: 'https://kns.cnki.net/kcms2/article/abstract?v=uQzRnDzoTXHOiv9x1GUl-f0hrIF5BN9mKmMzmAOgXCo1H_nQD9H_neHTOWBmI4pATkN0RGY_Tk8tvjhWqaUoUnluK_osA__afyUd2A2qyZYaFYgdm2St9dmGjthGacIwBcULS4LunQ4q2rgWa7zpLxyA7JDc2HleRUUmU2Kmq2VAJy36R2zHFGEikEC_5M8u&uniplatform=NZKPT&language=CHS'
   - area: BSc Marine Science
     institution: Guangdong Ocean University
     date_start: 2017-09-01
