@@ -74,7 +74,7 @@ education:
     date_start: 2021-09-01
     date_end: 2024-06-30
     summary: |
-      Supervised by [Prof Joe Smith](https://example.com).
+      Supervised by [Prof Shujiang Li](https://www.fio.org.cn/team/shuodao-detail-5736.htm).
 
       GPA: 3.3/4.0
 

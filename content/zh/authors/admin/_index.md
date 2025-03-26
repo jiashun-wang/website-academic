@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Jiashun Wang
+title: 王佳顺
 
 # Name pronunciation (optional)
-#name_pronunciation: Wang Jia Shun
+name_pronunciation: Wang Jia Shun
 
 # Full name (for SEO)
 first_name: Jiashun
@@ -20,13 +20,13 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Graduate Student
+role: 硕士生
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: First Institute of Oceanography, MNR
+  - name: 自然资源部第一海洋研究所
     url: http://en.fio.org.cn/
-  - name: Harbin Engineering University
+  - name: 哈尔滨工程大学
     url: https://english.hrbeu.edu.cn/
 
 
@@ -48,11 +48,11 @@ profiles:
     url: https://orcid.org/0000-0002-6442-9258
 
 interests:
-  - Marine Heatwaves
-  - Ocean Circulation
-  - Ocean Modelling
-  - Air-sea Interaction
-  - Artificial Intelligence
+  - 海洋热浪
+  - 大洋环流
+  - 数值模式
+  - 海气相互作用
+  - 人工智能
 
 education:
 
@@ -61,7 +61,8 @@ education:
     date_start: 2021-09-01
     date_end: 2024-06-30
     summary: |
-      Supervised by [Prof Joe Smith](https://example.com).
+      Supervised by [正高级工程师 李淑江](https://www.fio.org.cn/team/shuodao-detail-5736.htm).
+      Supervised by [副研究员 聂珣炜](https://www.researchgate.net/profile/Nie-Xunwei).
 
       GPA: 3.3/4.0
 
@@ -71,7 +72,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: 'https://kns.cnki.net/kcms2/article/abstract?v=uQzRnDzoTXHA1eZnG-HmLq3LGRo526vkP1dn0QKrQI9nOiKlgvAHvReU2gDBYsaLx__2axuCc8HyTn4cil7_9FY2B1AfLJlKu3B49WR5dJCvlEtNODlIF2gMgZdydQxvK2H2JCVvU1aWVMxXf_QSao5ZATe6TQ3iPfocjUELp49ms5i2xr4832BI-hGfon-w&uniplatform=NZKPT&language=CHS'
   - area: BSc Marine Science
     institution: Guangdong Ocean University
     date_start: 2017-09-01
