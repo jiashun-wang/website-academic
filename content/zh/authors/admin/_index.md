@@ -20,14 +20,14 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: 硕士生
+role: 海洋科学硕士
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: 自然资源部第一海洋研究所
-    url: http://en.fio.org.cn/
+    url: https://www.fio.org.cn/
   - name: 哈尔滨工程大学
-    url: https://english.hrbeu.edu.cn/
+    url: http://www.hrbeu.edu.cn/
 
 
 # Social network links
@@ -36,16 +36,25 @@ profiles:
   - icon: at-symbol
     url: 'mailto:wjs@ieee.org'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/wang_jiashun
-  - icon: brands/github
-    url: https://github.com/jiashun-wang
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/wangjiashun/
+
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=wWfLsaIAAAAJ
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-6442-9258
+  - icon: academicons/osf
+    url: https://osf.io/fbq2a 
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Jiashun-Wang-3
+  - icon: academicons/zotero
+    url: https://www.zotero.org/muskchina
+
+
+  - icon: brands/github
+    url: https://github.com/jiashun-wang
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/wangjiashun/
+  - icon: brands/x
+    url: https://twitter.com/wang_jiashun
 
 interests:
   - 海洋热浪
@@ -143,9 +152,9 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: 英语
     percent: 70
-  - name: Chinese
+  - name: 中文
     percent: 100
 
 # Awards.
