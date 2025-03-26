@@ -1,17 +1,34 @@
 # Languages
 #   Create a section for each of your site's languages.
 #   Documentation: https://docs.hugoblox.com/reference/language/
+#   https://gohugo.io/configuration/languages/
 
-# Default language
-en:
-  languageCode: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  contentDir: content/en
 
-# Uncomment the lines below to configure your website in a second language.
-zh:
- languageCode: zh-Hans
- contentDir: content/zh
- title: 王佳顺的学术主页
- params:
-   description: Site description in Chinese...
+
+languages:
+  en:
+    languageCode: en-us
+    languageName: English
+    contentDir: content/en
+    pagination:
+      path: page
+    params:
+      subtitle: Reference, Tutorials, and Explanations
+      description: Site description in ...
+    timeZone: Asia/Shanghai
+    title: Jiashun Wang's Academic Homepage
+    weight: 1
+
+  zh:
+    languageCode: zh-Hans
+    languageName: 简体中文
+    contentDir: content/zh
+    pagination:
+      path: page
+    params:
+      subtitle: Reference, Tutorials, and Explanations
+      description: Site description in ...
+    timeZone: Asia/Shanghai
+    title: 王佳顺的学术主页
+    weight: 2
+
