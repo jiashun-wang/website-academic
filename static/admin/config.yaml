@@ -1,18 +1,18 @@
-module:
-  mounts:
-    - source: data
-      target: data
-    - source: functions
-      target: layouts/partials/mod-decap-cms
-    - source: templates
-      target: layouts/decap_cms
-outputFormats:
-  decap_cms_config:
-    baseName: config
-    isPlainText: true
-    mediatype: application/yaml
-    notAlternative: false
-mediaTypes:
-  application/yaml:
-    suffixes:
-      - yml
+backend:
+  name: git-gateway
+  branch: main # Branch to update (optional; defaults to master)
+media_folder: static/img
+public_folder: /img
+collections:
+  - name: 'blog'
+    label: 'Blog'
+    folder: 'content/blog'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
