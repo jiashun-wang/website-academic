@@ -195,12 +195,6 @@ awards:
 
 ## About Me
 
-Jiashun Wang is a Graduate student of Physical Oceanography in the First Insitute of Oceanography (FIO). His research interests include xxxxxxxxxxxxxxxx
-xxxxx
-xxxxxx
-xxxxxxx
-
-xxxxxx
-xx
+Jiashun Wang is a Graduate student of Physical Oceanography in the First Insitute of Oceanography (FIO). His research interests include 
 
 
