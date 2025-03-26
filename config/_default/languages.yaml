@@ -10,19 +10,15 @@ languages:
     languageCode: en-us
     languageName: English
     contentDir: content/en
-    params:
-      description: Site description in ...
     timeZone: Asia/Shanghai
     title: Jiashun Wang's Academic Homepage
-    weight: 1
+    
 
   zh:
     languageCode: zh-Hans
     languageName: 简体中文
     contentDir: content/zh
-    params:
-      description: Site description in ...
     timeZone: Asia/Shanghai
     title: 王佳顺的学术主页
-    weight: 2
+    
 
