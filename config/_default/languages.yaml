@@ -10,7 +10,6 @@ languages:
     languageCode: en-us
     languageName: English
     contentDir: content/en
-    title: Jiashun Wang's Academic Homepage
     
 
   zh:
