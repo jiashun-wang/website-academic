@@ -35,7 +35,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Jiashun Wang's Academic Homepage"
+      text: "Academic Homepage"
 
 # Site footer
 footer:
