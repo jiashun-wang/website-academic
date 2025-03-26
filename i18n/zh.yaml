@@ -13,10 +13,10 @@
   translation: 回到顶部
 
 - id: home
-  translation: Home
+  translation: 主页
 
 - id: close
-  translation: Close
+  translation: 关闭
 
 - id: languages
   translation: 语言
@@ -99,7 +99,7 @@
 # About widget
 
 - id: interests
-  translation: 兴趣爱好
+  translation: 兴趣
 
 - id: education
   translation: 教育经历
@@ -224,10 +224,10 @@
   translation: 项目
 
 - id: slides
-  translation: Slides
+  translation: 幻灯片
 
 - id: authors
-  translation: Authors
+  translation: 作者
 
 # Search
 
