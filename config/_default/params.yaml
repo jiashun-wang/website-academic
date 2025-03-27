@@ -84,3 +84,7 @@ features:
     commento:
       # If you self-host Commento, enter your custom Commento URL here.
       url: ''
+    repository:
+    url: 'https://github.com/jiashun-wang/jiahun-wang.github.io'
+    content_dir: content
+    branch: main
