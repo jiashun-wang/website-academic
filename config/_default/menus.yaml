@@ -24,6 +24,9 @@ main:
   - name: Event
     url: /event
     weight: 15
+  - name: Publication
+    url: /publication
+    weight: 16
 
 
     
