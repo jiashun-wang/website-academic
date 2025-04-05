@@ -8,22 +8,33 @@ main:
     url: /
     weight: 10
     
-  - name: 论文
-    url: /#papers
-    weight: 11
-  - name: 演讲
-    url: /#talks
-    weight: 12
+  # - name: 代表论文
+  #   url: /#papers
+  #   weight: 11
+  # - name: 近期演讲
+  #   url: /#talks
+  #   weight: 12
+  # - name: 近期博客
+  #   url: /#news
+  #   weight: 13
+
+
   - name: 博客
-    url: /#news
-    weight: 13
+    url: /post
+    weight: 14
+  - name: 活动
+    url: /event
+    weight: 15
+  - name: 论文
+    url: /publication
+    weight: 16
 
   - name: 经历
     url: experience/
-    weight: 20
+    weight: 30
   - name: 项目
     url: projects/
-    weight: 30
+    weight: 40
   - name: 教学
     url: teaching/
-    weight: 40
+    weight: 50
