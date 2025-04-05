@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: system
-  color: emerald
+  color: sky
 
 # SEO
 marketing:
@@ -60,7 +60,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/jiashun-wang/jiashun-wang.github.io'
+    url: 'https://github.com/jiashun-wang/website-academic'
     content_dir: content
     branch: main
   show_related: true
@@ -85,6 +85,6 @@ features:
       # If you self-host Commento, enter your custom Commento URL here.
       url: ''
     repository:
-    url: 'https://github.com/jiashun-wang/jiahun-wang.github.io'
+    url: 'https://github.com/jiashun-wang/website-academic'
     content_dir: content
     branch: main
