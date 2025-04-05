@@ -6,7 +6,8 @@
 # Website name
 title: Jiashun Wang's Academic Homepage
 # Website URL
-baseURL: 'https://example.com/'
+#baseURL: 'https://example.com/'
+baseURL: 'https://jia-shun.wang/'
 
 ############################
 ## LANGUAGE
