@@ -65,31 +65,31 @@ interests:
 
 education:
 
-  - area: MSc Marine Science
-    institution: Harbin Engineering University
+  - area: 理学硕士 海洋科学
+    institution: 哈尔滨工程大学
     date_start: 2021-09-01
     date_end: 2024-06-30
     summary: |
-      Supervised by [正高级工程师 李淑江](https://www.fio.org.cn/team/shuodao-detail-5736.htm).
-      Supervised by [副研究员 聂珣炜](https://www.researchgate.net/profile/Nie-Xunwei).
+      导师： [正高级工程师 李淑江](https://www.fio.org.cn/team/shuodao-detail-5736.htm).
+      导师： [副研究员 聂珣炜](https://www.researchgate.net/profile/Nie-Xunwei).
 
       GPA: 3.3/4.0
 
-      Courses included:
+      学习课程:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
     button:
-      text: 'Read Thesis'
+      text: '下载我的硕士学位论文'
       url: 'https://kns.cnki.net/kcms2/article/abstract?v=uQzRnDzoTXHA1eZnG-HmLq3LGRo526vkP1dn0QKrQI9nOiKlgvAHvReU2gDBYsaLx__2axuCc8HyTn4cil7_9FY2B1AfLJlKu3B49WR5dJCvlEtNODlIF2gMgZdydQxvK2H2JCVvU1aWVMxXf_QSao5ZATe6TQ3iPfocjUELp49ms5i2xr4832BI-hGfon-w&uniplatform=NZKPT&language=CHS'
-  - area: BSc Marine Science
-    institution: Guangdong Ocean University
+  - area: 理学学士 海洋科学
+    institution: 广东海洋大学
     date_start: 2017-09-01
     date_end:  2021-06-30
     summary: |
       GPA: 3.6/5.0
       
-      Courses included:
+      学习课程:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -120,7 +120,7 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: 技术技能
     items:
       - name: Python
         description: ''
@@ -134,7 +134,7 @@ skills:
         description: ''
         percent: 70
         icon: circle-stack
-  - name: Hobbies
+  - name: 兴趣爱好
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
