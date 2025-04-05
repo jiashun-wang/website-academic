@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Talks
+title: 近期讲座
 cms_exclude: true
 #url: talk
 
