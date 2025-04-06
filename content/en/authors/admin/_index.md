@@ -59,6 +59,8 @@ profiles:
     url: https://www.linkedin.com/in/wangjiashun/
   - icon: brands/x
     url: https://twitter.com/wang_jiashun
+  - icon: brands/youtube
+    url: https://www.youtube.com/@wang_jiashun
 
 interests:
   - Marine Heatwaves
