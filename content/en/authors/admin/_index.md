@@ -11,7 +11,7 @@ last_name: Wang
 
 # Status emoji
 status: 
-  icon: 🎓
+  icon: 🔥
 
 # Is this the primary user of the site?
 superuser: true
@@ -58,7 +58,7 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/wangjiashun/
   - icon: brands/x
-    url: https://twitter.com/wang_jiashun
+    url: https://x.com/wang_jiashun
   - icon: brands/youtube
     url: https://www.youtube.com/@wang_jiashun
 
