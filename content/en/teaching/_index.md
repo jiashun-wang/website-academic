@@ -14,6 +14,7 @@ sections:
     id: teaching
     content:
       title: Teaching
+      text: I have a passion for learning and assisting others, and many of my friends often regard me as a mentor. Below, I have meticulously curated a selection of learning resources.
       filters:
         folders:
           - teaching
