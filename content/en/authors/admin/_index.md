@@ -65,7 +65,7 @@ profiles:
 interests:
   - Marine Heatwaves
   - Ocean Circulation
-  - Ocean Modelling
+  - Ocean Modeling
   - Air-sea Interaction
   - Artificial Intelligence
 
