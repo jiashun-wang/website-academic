@@ -38,3 +38,6 @@ main:
   - name: 教学
     url: teaching/
     weight: 50
+  - name: 画廊
+    url: gallery/
+    weight: 60
