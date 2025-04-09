@@ -42,6 +42,7 @@ sections:
         Please reach out to collaborate 😃
     design:
       columns: '1'
+
   - block: collection
     id: papers
     content:
@@ -53,6 +54,7 @@ sections:
     design:
       view: article-grid
       columns: 2
+
   - block: collection
     content:
       title: Recent Publications
@@ -63,6 +65,7 @@ sections:
         exclude_featured: false
     design:
       view: citation
+
   - block: collection
     id: talks
     content:
@@ -73,6 +76,7 @@ sections:
     design:
       view: article-grid
       columns: 1
+
   - block: collection
     id: news
     content:
@@ -102,6 +106,7 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+        
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:

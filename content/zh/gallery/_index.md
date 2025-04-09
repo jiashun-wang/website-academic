@@ -1,6 +1,26 @@
 ---
 title: 画廊
-view: article-grid
-description: 这是一个展示艺术作品的画廊。
-keywords: 艺术, 画廊, 展示
+date: 2025-04-10
+type: landing
+
+
+design:
+  # Section spacing
+  spacing: '5rem'
+
+# Page sections
+sections:
+  - block: collection
+    content:
+      title: Selected Pictures
+      text: 
+      filters:
+        folders:
+          - gallery
+    design:
+      view: article-grid
+      fill_image: false
+      columns: 3
+
+
 ---

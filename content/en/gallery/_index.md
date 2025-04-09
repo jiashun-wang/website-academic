@@ -1,17 +1,26 @@
 ---
 title: Gallery
-view: article-grid
-description: A gallery to showcase artwork.
-keywords: art, gallery, showcase
+date: 2025-04-10
+type: landing
+
+
 design:
   # Section spacing
   spacing: '5rem'
-  # Background color
-  background_color: '#f0f0f0'
-  # Text color
-  text_color: '#333'
-  # Font size
-  font_size: '1.2rem'
-  # Font family
-  font_family: 'Arial, sans-serif'
+
+# Page sections
+sections:
+  - block: collection
+    content:
+      title: Selected Pictures
+      text: 
+      filters:
+        folders:
+          - gallery
+    design:
+      view: article-grid
+      fill_image: false
+      columns: 3
+
+
 ---
