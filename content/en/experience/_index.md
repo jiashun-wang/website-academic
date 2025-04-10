@@ -26,10 +26,6 @@ sections:
     design:
       show_skill_percentage: false
 
-  - block: resume-certifications
-    content:
-      title: Certifications
-      username: admin
 
 
   
