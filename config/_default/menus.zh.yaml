@@ -41,3 +41,6 @@ main:
   - name: 画廊
     url: gallery/
     weight: 60
+  - name: 数据集
+    url: dataset/
+    weight: 70

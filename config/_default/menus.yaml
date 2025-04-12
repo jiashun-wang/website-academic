@@ -42,3 +42,6 @@ main:
   - name: Gallery
     url: gallery/
     weight: 60
+  - name: Dataset
+    url: dataset/
+    weight: 70
