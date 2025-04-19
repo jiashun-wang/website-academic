@@ -3,3 +3,10 @@
 .DS_store
 *.log
 
+# public
+/public
+/resources
+.hugo_build.lock
+go.mod
+go.sum
+hugo_stats.json
