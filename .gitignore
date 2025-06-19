@@ -10,3 +10,4 @@
 go.mod
 go.sum
 hugo_stats.json
+node_modules

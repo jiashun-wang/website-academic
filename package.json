@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@sveltia/cms": "^0.80.9",
+    "decap-cms-app": "^3.6.4"
+  }
+}
