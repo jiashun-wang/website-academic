@@ -8,22 +8,10 @@ main:
     url: /
     weight: 10
 
-  # - name: Papers
-  #   url: /#papers
-  #   weight: 11
-  # - name: Talks
-  #   url: /#talks
-  #   weight: 12
-  # - name: News
-  #   url: /#news
-  #   weight: 13
 
   - name: Blog
     url: /post
     weight: 14
-  - name: Event
-    url: /event
-    weight: 15
   - name: Publication
     url: /publication
     weight: 16
@@ -36,12 +24,6 @@ main:
   - name: Projects
     url: projects/
     weight: 40
-  - name: Teaching
-    url: teaching/
-    weight: 50
-  - name: Gallery
-    url: gallery/
-    weight: 60
-  - name: Dataset
-    url: dataset/
-    weight: 70
+
+  
+
