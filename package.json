@@ -1,6 +1,14 @@
 {
+  "comments": {
+    "dependencies": {
+      "@sveltia/cms": "project",
+      "decap-cms-app": "project"
+    },
+    "devDependencies": {}
+  },
   "dependencies": {
     "@sveltia/cms": "^0.80.9",
     "decap-cms-app": "^3.6.4"
-  }
+  },
+  "devDependencies": {}
 }
