@@ -8,7 +8,7 @@
 
   en:
     languageCode: en-us
-    contentDir: content/en
+    contentDir: content
     pagination:
       path: page
     params:
@@ -18,15 +18,5 @@
     title: Jiashun Wang's Academic Homepage
     weight: 1
 
-  zh:
-    languageCode: zh-Hans
-    contentDir: content/zh
-    pagination:
-      path: page
-    params:
-      subtitle: Reference, Tutorials, and Explanations
-      description: Site description in ...
-    timeZone: Asia/Shanghai
-    title: 王佳顺的学术主页
-    weight: 2
+
 
