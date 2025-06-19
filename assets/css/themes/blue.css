@@ -25,3 +25,10 @@
     --color-secondary-900: 22 78 99;
     --color-secondary-950: 8 51 68;
   }
+
+  /* 让名字变金色 */
+.author-title, 
+.avatar-title, 
+.page-title {
+  color: rgb(var(--color-gold-main));
+}
