@@ -20,10 +20,11 @@ marketing:
     twitter: 'wang_jiashun'
   analytics:
     google_analytics: ''
-    baidu_tongji: ''
+    baidu_tongji: '20bf5d10924c5e814be1b32fe12cc5c8'
     plausible: ''
     fathom: ''
     pirsch: ''
+    microsoft_clarity: 's21c1yojc8'
   verification:
     google: ''
     baidu: ''
