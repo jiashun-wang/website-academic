@@ -32,3 +32,8 @@
 .page-title {
   color: rgb(var(--color-gold-main));
 }
+
+.content {
+  max-width: 700px;
+  margin: 0 auto;
+}
