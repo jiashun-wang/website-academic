@@ -9,9 +9,9 @@ main:
     weight: 10
 
 
-  - name: Blog
-    url: /post
-    weight: 14
+  # - name: Blog
+  #   url: /post
+  #   weight: 14
   - name: Publication
     url: /publication
     weight: 16
