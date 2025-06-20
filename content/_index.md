@@ -40,6 +40,8 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: true
+      view: article-grid
+      columns: 2
 
   - block: resume-skills
     content:
@@ -55,6 +57,7 @@ sections:
       username: admin
       
   - block: resume-languages
+    id: languages
     content:
       title: Languages
       username: admin
