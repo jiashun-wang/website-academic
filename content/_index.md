@@ -32,6 +32,7 @@ sections:
           parallax: false
 
   - block: resume-experience
+  - id: experience
     content:
       username: admin
     design:
