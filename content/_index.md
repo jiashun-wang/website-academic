@@ -31,44 +31,16 @@ sections:
           position: center
           parallax: false
 
- - id: experience
-    block: resume-experience
+  - block: resume-experience
+    id: experience
     content:
-      title: Experience
       username: admin
-      # Show a call-to-action button under your experience? (optional)
-      button:
-        text: View All Experience
-        url: /experience/
     design:
-      # Show the date range of each experience?
-      show_date_range: true
-      # Show the location of each experience?
-      show_location: true
-  # - block: resume-experience
- 
-  #   content:
-  #     username: admin
-  #   design:
-  #     # Hugo date format
-  #     date_format: 'January 2006'
-  #     # Education or Experience section first?
-  #     is_education_first: true
-  - block: resume-education
-    content:
-      title: Education
-      username: admin
-      # Show a call-to-action button under your education? (optional)
-      button:
-        text: View All Education
-        url: /education/
-    design:
-      # Show the date range of each education?
-      show_date_range: true
-      # Show the location of each education?
-      show_location: true
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: true
 
-      
   - block: resume-skills
     content:
       title: Skills & Hobbies
