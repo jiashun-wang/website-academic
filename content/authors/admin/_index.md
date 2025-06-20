@@ -87,7 +87,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
     button:
       text: 'Read Thesis'
-      url: static/uploads/dissertation_heu_wjs.pdf
+      url: uploads/dissertation_heu_wjs.pdf
   - area: BSc Marine Science
     institution: Guangdong Ocean University
     date_start: 2017-09-01
