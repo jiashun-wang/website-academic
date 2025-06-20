@@ -138,24 +138,37 @@ skills:
         icon: chart-bar
       - name: Fortran
         description: ''
-        percent: 70
+        percent: 80
         icon: circle-stack
+      - name: C
+        description: ''
+        percent: 70
+        icon: code
+      - name: Git
+        description: ''
+        percent: 80
+        icon: git
+      - name: Docker
+        description: ''
+        percent: 90
+        icon: docker
+      - name: Linux
+        description: ''
+        percent: 80
+        icon: linux
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Bicycle
-        description: ''
-        percent: 60
-        icon: bicycle
       - name: Cats
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: violin
         description: ''
-        percent: 80
-        icon: camera
+        percent: 60
+        icon: violin
 
 languages:
   - name: English
