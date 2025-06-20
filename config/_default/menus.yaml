@@ -12,20 +12,22 @@ main:
   # - name: Blog
   #   url: /post
   #   weight: 14
-  - name: Publication
-    url: /publication
-    weight: 16
+
 
   - name: Education
-    url: '#education/'
+    url: '#education'
     weight: 20
     
   - name: Experience
-    url: '#experience/'
+    url: '#experience'
     weight: 30
   - name: Projects
-    url: projects/
+    url: '#projects'
     weight: 40
+
+  - name: Publication
+    url: '#publication'
+    weight: 50
 
   
 
