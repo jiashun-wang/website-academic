@@ -191,6 +191,10 @@ awards:
 
 ## About Me
 
-Jiashun Wang is a Graduate student of Physical Oceanography in the First Insitute of Oceanography (FIO). His research interests include 
+I am a master's graduate in Marine Science, jointly trained by Harbin Engineering University and the First Institute of Oceanography. My research focuses on Physical Oceanography, and I am currently conducting studies on the Indonesian seas and marine heatwaves utilizing the resources at the First Institute of Oceanography.
+
+My passion for Physical Oceanography stems from my deep interest in mathematics, mechanics, and computer science, as these disciplines provide the essential tools and frameworks for understanding the complex dynamics of ocean systems. Mathematics allows me to model and quantify oceanic processes, mechanics helps me grasp the physical forces and fluid behaviors at play, and computer science equips me with the skills to analyze large datasets and develop simulations that reveal patterns and insights about marine environments. Together, these fields fuel my curiosity and drive my research in unraveling the mysteries of the ocean.
+
+I have strong skills in academic literature search, theoretical knowledge organization, website development, various software and programming languages, and I am particularly proficient with language-based large models. In my free time, I enjoy helping others solve technical problems, which has allowed me to build good relationships with peers in oceanography as well as engineers specializing in fluid mechanics.
 
 
