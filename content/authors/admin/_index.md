@@ -149,7 +149,11 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: C
+      - name: C language
+        description: ''
+        percent: 70
+        icon: code-bracket
+      - name: R language
         description: ''
         percent: 70
         icon: code-bracket
@@ -162,6 +166,14 @@ skills:
         percent: 90
         icon: code-bracket
       - name: Linux
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: Markdown
+        description: ''
+        percent: 90
+        icon: code-bracket
+      - name: LaTeX
         description: ''
         percent: 80
         icon: code-bracket
