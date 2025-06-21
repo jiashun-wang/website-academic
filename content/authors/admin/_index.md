@@ -82,9 +82,10 @@ education:
       GPA: 3.2/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Physical Oceanography, Marine Meteorology, Marine Chemistry, etc.
+      - Fluid Mechanics, Mathematical Methods in Physics, Numerical Methods, etc.
+      - Data Analysis and Visualization, Ocean Parameter Computation, Ocean Numerical Modeling, etc.
+      - University Physics, Advanced Mathematics, Linear Algebra, Probability Theory and Mathematical Statistics
     button:
       text: 'Read Thesis'
       url: uploads/dissertation_heu_wjs.pdf
@@ -96,7 +97,6 @@ education:
       GPA: 3.6/5.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
