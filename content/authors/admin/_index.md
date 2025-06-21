@@ -173,10 +173,6 @@ skills:
         description: ''
         percent: 100
         icon: cat
-      - name: violin
-        description: ''
-        percent: 60
-        icon: violin
 
 languages:
   - name: English
