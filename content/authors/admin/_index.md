@@ -82,10 +82,9 @@ education:
       GPA: 3.2/4.0
 
       Courses included:
-      - Physical Oceanography, Marine Meteorology, Marine Chemistry, etc.
-      - Fluid Mechanics, Mathematical Methods in Physics, Numerical Methods, etc.
-      - Data Analysis and Visualization, Ocean Parameter Computation, Ocean Numerical Modeling, etc.
-      - University Physics, Advanced Mathematics, Linear Algebra, Probability Theory and Mathematical Statistics etc.
+      - Physical Oceanography,Principles of Underwater Acoustics,  Introduction to Earth System Science, etc.
+      -  Principle and Method of Remote Sensing, Modern Ocean Exploration Technology and Application, Data Fusion Theory and Application, etc.
+      - Theory and Application of Fluid Mechanics, Mathematics Method in Physics A
     button:
       text: 'Read Thesis'
       url: uploads/dissertation_heu_wjs.pdf
@@ -120,7 +119,7 @@ work:
     date_start: 2021-04-01
     date_end: 2021-05-01
     summary: |-
-      - Developed a brand-new Roblox experience from scratch, collaborating with another developer to ideate, design, and implement the game mechanics, user interface, and core features using TypeScript and React.
+      - Monitor the real-time observation data of Zhanjiang Bay for any anomalies, eliminate outlier and abnormal data, and ensure that the data is transmitted to the Zhuhai main station via the FTP protocol without issues.
 
   - position: Deployment and Recovery of ADCP at Zhanjiang Bay
     company_name: Undergraduate Student Participant
