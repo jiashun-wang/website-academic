@@ -191,13 +191,28 @@ certifications:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
+  - title: Google Data Analytics Professional Certificate
+    url: https://www.coursera.org/account/accomplishments/specialization/certificate/SSUOEYJUAYCC
+    date: '2024-12-1'
     awarder: Coursera
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+      Those who earn the Google Data Analytics Professional Certificate have completed eight courses, developed by Google, that include hands-on, practice-based assessments and are designed to prepare them for introductory-level roles in Data Analytics. They are competent in tools and platforms including spreadsheets, SQL, Tableau, and R. They know how to prepare, process, analyze, and share data for thoughtful action.
+  - title: Data Analysis with R Programming
+    url: https://www.coursera.org/account/accomplishments/certificate/5MCJSCX4YV84
+    date: '2024-12-1'
+    awarder: Coursera
+    icon: coursera
+    summary: |
+      an online non-credit course authorized by Google and offered through Coursera
+  - title: Neural Networks and Deep Learning
+    url: https://www.coursera.org/account/accomplishments/certificate/098YTSN7DB8M
+    date: '2024-12-16'
+    awarder: Coursera
+    icon: coursera
+    summary: |
+      an online non-credit course authorized by DeepLearning.AI and offered through Coursera
+
 
 
 ---

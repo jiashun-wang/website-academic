@@ -48,11 +48,11 @@ sections:
     design:
       show_skill_percentage: false
 
-  - block: resume-awards
-    id: awards
-    content:
-      title: Awards
-      username: admin
+  # - block: resume-awards
+  #   id: awards
+  #   content:
+  #     title: Awards
+  #     username: admin
       
   - block: resume-languages
     id: languages
