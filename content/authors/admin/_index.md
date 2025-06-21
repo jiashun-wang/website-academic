@@ -191,14 +191,14 @@ languages:
 awards:
   - title: Google Data Analytics Professional Certificate
     url: https://www.coursera.org/account/accomplishments/specialization/certificate/SSUOEYJUAYCC
-    date: '2024-12-1'
+    date: '2024-12-01'
     awarder: Coursera
     icon: coursera
     summary: |
       Those who earn the Google Data Analytics Professional Certificate have completed eight courses, developed by Google, that include hands-on, practice-based assessments and are designed to prepare them for introductory-level roles in Data Analytics. They are competent in tools and platforms including spreadsheets, SQL, Tableau, and R. They know how to prepare, process, analyze, and share data for thoughtful action.
   - title: Data Analysis with R Programming
     url: https://www.coursera.org/account/accomplishments/certificate/5MCJSCX4YV84
-    date: '2024-12-1'
+    date: '2024-12-01'
     awarder: Coursera
     icon: coursera
     summary: |
