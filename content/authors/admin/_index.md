@@ -99,29 +99,29 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+# work:
+#   - position: Director of Cloud Infrastructure
+#     company_name: GenCoin
+#     company_url: ''
+#     company_logo: ''
+#     date_start: 2021-01-01
+#     date_end: ''
+#     summary: |2-
+#       Responsibilities include:
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#   - position: Backend Software Engineer
+#     company_name: X
+#     company_url: ''
+#     company_logo: ''
+#     date_start: 2016-01-01
+#     date_end: 2020-12-31
+#     summary: |
+#       Responsibilities include:
+#       - Migrated infrastructure to a new data center
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -135,27 +135,27 @@ skills:
       - name: MATLAB
         description: ''
         percent: 90
-        icon: chart-bar
+        icon: code-bracket
       - name: Fortran
         description: ''
         percent: 80
-        icon: circle-stack
+        icon: code-bracket
       - name: C
         description: ''
         percent: 70
-        icon: code
+        icon: code-bracket
       - name: Git
         description: ''
         percent: 80
-        icon: git
+        icon: code-bracket
       - name: Docker
         description: ''
         percent: 90
-        icon: docker
+        icon: code-bracket
       - name: Linux
         description: ''
         percent: 80
-        icon: linux
+        icon: code-bracket
 
   - name: Hobbies
     color: '#eeac02'
