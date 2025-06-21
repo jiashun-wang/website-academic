@@ -99,29 +99,37 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-# work:
-#   - position: Director of Cloud Infrastructure
-#     company_name: GenCoin
-#     company_url: ''
-#     company_logo: ''
-#     date_start: 2021-01-01
-#     date_end: ''
-#     summary: |2-
-#       Responsibilities include:
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#   - position: Backend Software Engineer
-#     company_name: X
-#     company_url: ''
-#     company_logo: ''
-#     date_start: 2016-01-01
-#     date_end: 2020-12-31
-#     summary: |
-#       Responsibilities include:
-#       - Migrated infrastructure to a new data center
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+work:
+  - position: Research on Marine Heatwaves in the Indonesian Seas
+    company_name: Collaborative Student Training at FIO
+    company_url: ''
+    company_logo: ''
+    location: Qingdao, Shandong, China
+    date_start: 2022-07-01
+    date_end: 2024-06-30
+    summary: |-
+      - Developed a brand-new Roblox experience from scratch, collaborating with another developer to ideate, design, and implement the game mechanics, user interface, and core features using TypeScript and React.
+
+  - position: Ocean Data Monitoring
+    company_name: Internship at Zhanjiang Marine Environment Monitoring Station
+    company_url: ''
+    company_logo: ''
+    location: Zhanjiang, Guangdong, China
+    date_start: 2021-04-01
+    date_end: 2021-05-01
+    summary: |-
+      - Developed a brand-new Roblox experience from scratch, collaborating with another developer to ideate, design, and implement the game mechanics, user interface, and core features using TypeScript and React.
+
+  - position: Deployment and Recovery of ADCP at Zhanjiang Bay
+    company_name: Undergraduate Student Participant
+    company_url: ''
+    company_logo: ''
+    location: Zhanjiang, Guangdong, China
+    date_start: 2018-06-01
+    date_end: 2018-06-02
+    summary: |-
+      - Carried out a 2-day and 2-night shift rotation for ADCP deployment and recovery operations at Zhanjiang Bay.
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
