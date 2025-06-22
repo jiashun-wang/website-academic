@@ -16,8 +16,8 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
-        url: uploads/resume.pdf
+        text: Download CV (June 2025)
+        url: uploads/resume_jswang.pdf
     design:
       css_class: dark
       background:
