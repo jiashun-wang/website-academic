@@ -33,10 +33,10 @@
   color: rgb(var(--color-gold-main));
 }
 
-.container {
+/* .container {
   max-width: 90%;
   margin: 0 auto;
-}
+} */
 html {
   scroll-behavior: smooth;
 }
