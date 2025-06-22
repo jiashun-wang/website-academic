@@ -45,8 +45,8 @@ profiles:
     url: https://scholar.google.com/citations?user=wWfLsaIAAAAJ
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-6442-9258
-  - icon: academicons/osf
-    url: https://osf.io/fbq2a 
+  # - icon: academicons/osf
+  #   url: https://osf.io/fbq2a 
   - icon: academicons/researchgate
     url: https://www.researchgate.net/profile/Jiashun-Wang-3
   - icon: academicons/zotero
