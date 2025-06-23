@@ -227,7 +227,12 @@ awards:
 ---
 
 ## About Me
-I have a master of science degree in Marine Science completed through a joint program between Harbin Engineering University and the First Institute of Oceanography. My research focuses on Physical Oceanography, and I am currently conducting studies on the Indonesian seas and marine heatwaves utilizing the resources at the First Institute of Oceanography.
+Master’s graduate in marine science with strong research experience in data analysis, numerical modeling, and
+programming. Skilled in Python and MATLAB, and involved in projects on marine heatwaves and wave forecasting.
+Experienced in academic resource management and international curriculum integration. Awarded multiple university
+scholarships, with solid teamwork and project coordination skills. Eager to pursue further research in physical
+oceanography and contribute to academic innovation at the PhD level.
+<!-- I have a master of science degree in Marine Science completed through a joint program between Harbin Engineering University and the First Institute of Oceanography. My research focuses on Physical Oceanography, and I am currently conducting studies on the Indonesian seas and marine heatwaves utilizing the resources at the First Institute of Oceanography. -->
 
 <!-- My passion for Physical Oceanography stems from my deep interest in mathematics, mechanics, and computer science, as these disciplines provide the essential tools and frameworks for understanding the complex dynamics of ocean systems. Mathematics allows me to model and quantify oceanic processes, mechanics helps me grasp the physical forces and fluid behaviors at play, and computer science equips me with the skills to analyze large datasets and develop simulations that reveal patterns and insights about marine environments. Together, these fields fuel my curiosity and drive my research in unraveling the mysteries of the ocean.
 
