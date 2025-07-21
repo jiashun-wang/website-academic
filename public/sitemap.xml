@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://jia-shun.wang/projects/</loc>
+    <lastmod>2024-05-19T00:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jia-shun.wang/experience/</loc>
+    <lastmod>2023-10-24T00:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jia-shun.wang/</loc>
+    <lastmod>2022-10-24T00:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jia-shun.wang/authors/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jia-shun.wang/post/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jia-shun.wang/author/jiashun-wang/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jia-shun.wang/publication_types/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jia-shun.wang/publication/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jia-shun.wang/tags/</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+</urlset>
